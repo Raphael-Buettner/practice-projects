@@ -14,3 +14,4 @@ Each project is self-contained inside its folder.
 
 - [Project Based Learning](https://github.com/practical-tutorials/project-based-learning)
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)
+- [SHA256 Project](https://github.com/oconnor663/sha256_project)
